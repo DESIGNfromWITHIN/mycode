@@ -1,0 +1,100 @@
+[
+  {
+    "name": "padding",
+    "label": "Padding",
+    "type": "select",
+    "value": "p-3",
+    "options": {
+      "p-0": "None",
+      "p-1": "Padding 1",
+      "p-2": "Padding 2",
+      "p-3": "Padding 3",
+      "p-4": "Padding 4",
+      "p-5": "Padding 5"
+    }
+  },
+  {
+    "name": "px",
+    "label": "Padding Horizontal",
+    "type": "select",
+    "value": "px-0",
+    "options": {
+      "": "None",
+      "px-1": "Padding Horizontal 1",
+      "px-2": "Padding Horizontal 2",
+      "px-3": "Padding Horizontal 3",
+      "px-4": "Padding Horizontal 4",
+      "px-5": "Padding Horizontal 5"
+    }
+  },
+  {
+    "name": "py",
+    "label": "Padding Vertical",
+    "type": "select",
+    "value": "my-0",
+    "options": {
+      "py-0": "None",
+      "py-1": "Padding Vertical 1",
+      "py-2": "Padding Vertical 2",
+      "py-3": "Padding Vertical 3",
+      "py-4": "Padding Vertical 4",
+      "py-5": "Padding Vertical 5"
+    }
+  },
+  {
+    "name": "pl",
+    "label": "Padding Left",
+    "type": "select",
+    "value": "ml-0",
+    "options": {
+      "pl-0": "None",
+      "pl-1": "Padding Left 1",
+      "pl-2": "Padding Left 2",
+      "pl-3": "Padding Left 3",
+      "pl-4": "Padding Left 4",
+      "pl-5": "Padding Left 5"
+    }
+  },
+  {
+    "name": "pr",
+    "label": "Padding Right",
+    "type": "select",
+    "value": "pr-0",
+    "options": {
+      "pr-0": "None",
+      "pr-1": "Padding Right 1",
+      "pr-2": "Padding Right 2",
+      "pr-3": "Padding Right 3",
+      "pr-4": "Padding Right 4",
+      "pr-5": "Padding Right 5"
+    }
+  },
+  {
+    "name": "pt",
+    "label": "Padding Top",
+    "type": "select",
+    "value": "pt-0",
+    "options": {
+      "pt-0": "None",
+      "pt-1": "Padding Top 1",
+      "pt-2": "Padding Top 2",
+      "pt-3": "Padding Top 3",
+      "pt-4": "Padding Top 4",
+      "pt-5": "Padding Top 5"
+    }
+  },
+  {
+    "name": "pb",
+    "label": "Padding Bottom",
+    "type": "select",
+    "value": "pb-0",
+    "options": {
+      "pb-0": "None",
+      "pb-1": "Padding Bottom 1",
+      "pb-2": "Padding Bottom 2",
+      "pb-3": "Padding Bottom 3",
+      "pb-4": "Padding Bottom 4",
+      "pb-5": "Padding Bottom 5"
+    }
+  }
+]

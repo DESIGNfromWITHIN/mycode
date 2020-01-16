@@ -1,0 +1,1 @@
+<li class="nav-item [[+classnames]]"><a href="[[+link]]" [[+attributes]] class="nav-link">[[+menutitle:default=`[[+pagetitle]]`]]</a></li>

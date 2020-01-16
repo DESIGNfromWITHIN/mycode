@@ -1,0 +1,21 @@
+[
+{
+"name":"icon",
+"label":"Show icons",
+"type":"toggle",
+"value":false
+},
+{
+"name": "iconcolor",
+"label": "Icon color",
+"type": "select",
+"options": {
+  "icon-primary": "Primary color",
+  "icon-secondary": "Secondary color",
+  "icon-dark": "Dark color",
+  "icon-white": "White color",
+  "icon-warning": "Warning color"
+},
+"value": "icon-primary"
+}
+]

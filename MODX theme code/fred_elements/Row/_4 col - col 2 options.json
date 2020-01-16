@@ -1,0 +1,80 @@
+[
+  {
+    "name": "col_2_size_sm",
+    "label": "Size small screens",
+    "type": "slider",
+    "min": 1,
+    "max": 12,
+    "step": 1,
+    "value": 12
+  },
+  {
+    "name": "col_2_size_md",
+    "label": "Size medium screens",
+    "type": "slider",
+    "min": 1,
+    "max": 12,
+    "step": 1,
+    "value": 6
+  },
+  {
+    "name": "col_2_size_lg",
+    "label": "Size large screens",
+    "type": "slider",
+    "min": 1,
+    "max": 12,
+    "step": 1,
+    "value": 3
+  },
+  {
+    "name": "col_2_size_xl",
+    "label": "Size extra large screens",
+    "type": "slider",
+    "min": 1,
+    "max": 12,
+    "step": 1,
+    "value": 3
+  },
+  {
+    "name": "col_2_offset_sm",
+    "label": "Offset small screens",
+    "type": "slider",
+    "min": 0,
+    "max": 11,
+    "step": 1,
+    "value": 0
+  },
+  {
+    "name": "col_2_offset_md",
+    "label": "Offset medium screens",
+    "type": "slider",
+    "min": 0,
+    "max": 11,
+    "step": 1,
+    "value": 0
+  },
+  {
+    "name": "col_2_offset_lg",
+    "label": "Offset large screens",
+    "type": "slider",
+    "min": 0,
+    "max": 11,
+    "step": 1,
+    "value": 0
+  },
+  {
+    "name": "col_2_offset_xl",
+    "label": "Offset extra large screens",
+    "type": "slider",
+    "min": 0,
+    "max": 11,
+    "step": 1,
+    "value": 0
+  },
+  {
+    "name":"centerer_vertically_col_2",
+    "label":"Center content vertically",
+    "type":"toggle",
+    "value":false
+  }
+]

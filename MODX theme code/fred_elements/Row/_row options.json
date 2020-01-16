@@ -1,0 +1,161 @@
+[
+  {
+    "name": "section_id",
+    "label": "Section ID",
+    "type": "text",
+    "value": ""
+  },
+  {
+    "name":"use_container",
+    "label":"Use container",
+    "type":"toggle",
+    "value":true
+  },
+  {
+    "name":"row_text_align",
+    "label":"Align the text of the row",
+    "type": "select",
+    "options": {
+      "text-left": "Text align left",
+      "text-center": "Text align center",
+      "text-right": "Text align right"
+    },
+    "value": "text-left"
+  },
+  {
+    "name":"image",
+    "label":"Background Image",
+    "type":"image",
+    "mediaSource":"Uploads"
+  },
+  {
+    "name":"overlay",
+    "label":"Show the overlay",
+    "type":"toggle",
+    "value":false
+  },
+  {
+    "name": "bg_color",
+    "label": "Overlay background color",
+    "type": "colorswatch",
+    "value": "primary-bg",
+    "options": [
+      {
+        "label": "Primary",
+        "color": "primary-bg",
+        "colorAsClass": true,
+        "value": "primary-bg",
+        "width": 2
+      },
+      {
+        "label": "Secondary",
+        "color": "secondary-bg",
+        "colorAsClass": true,
+        "value": "secondary-bg",
+        "width": 2
+      },
+      {
+        "label": "Warning",
+        "color": "warning-bg",
+        "colorAsClass": true,
+        "value": "warning-bg",
+        "width": 2
+      },
+      {
+        "label": "Primary light",
+        "color": "primary-light-bg",
+        "colorAsClass": true,
+        "value": "primary-light-bg"
+      },
+      {
+        "label": "Primary dark",
+        "color": "primary-dark-bg",
+        "colorAsClass": true,
+        "value": "primary-dark-bg"
+      },
+      {
+        "label": "Secondary light",
+        "color": "secondary-light-bg",
+        "colorAsClass": true,
+        "value": "secondary-light-bg"
+      },
+      {
+        "label": "Light",
+        "color": "light-bg",
+        "colorAsClass": true,
+        "value": "light-bg"
+      },
+      {
+        "label": "Dark",
+        "color": "dark-bg",
+        "colorAsClass": true,
+        "value": "dark-bg"
+      }
+    ]
+  },
+  {
+    "name": "olopacity",
+    "label": "Overlay Opacity",
+    "type": "slider",
+    "value": 60,
+    "min": 5,
+    "max": 100,
+    "step": 5
+  },
+  {
+    "name": "padding_row",
+    "label": "Padding row",
+    "type": "select",
+    "value": "p-3",
+    "options": {
+      "": "None",
+      "p-1": "Padding 1",
+      "p-2": "Padding 2",
+      "p-3": "Padding 3",
+      "p-4": "Padding 4",
+      "p-5": "Padding 5"
+    }
+  },
+  {
+    "name": "margin_top_row",
+    "label": "Margin top row",
+    "type": "select",
+    "value": "",
+    "options": {
+      "": "None",
+      "mt-1": "Margin top 1",
+      "mt-2": "Margin top 2",
+      "mt-3": "Margin top 3",
+      "mt-4": "Margin top 4",
+      "mt-5": "Margin top 5"
+    }
+  },
+  {
+    "name": "margin_bottom_row",
+    "label": "Margin bottom row",
+    "type": "select",
+    "value": "",
+    "options": {
+      "": "None",
+      "mb-1": "Margin bottom 1",
+      "mb-2": "Margin bottom 2",
+      "mb-3": "Margin bottom 3",
+      "mb-4": "Margin bottom 4",
+      "mb-5": "Margin bottom 5"
+    }
+  },
+  {
+    "name":"force_row_height",
+    "label":"Force row height",
+    "type":"toggle",
+    "value":false
+  },
+  {
+    "name": "row_height",
+    "label": "Row height",
+    "type": "slider",
+    "value": 50,
+    "min": 1,
+    "max": 100
+  }
+]

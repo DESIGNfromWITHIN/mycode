@@ -1,0 +1,16 @@
+[
+  {
+    "name": "margin",
+    "label": "Row margin",
+    "type": "select",
+    "value": "m-0",
+    "options": {
+      "m-0": "None",
+      "m-1": "Margin 1",
+      "m-2": "Margin 2",
+      "m-3": "Margin 3",
+      "m-4": "Margin 4",
+      "m-5": "Margin 5"
+    }
+  }
+]

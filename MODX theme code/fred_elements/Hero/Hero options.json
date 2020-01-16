@@ -1,0 +1,53 @@
+{
+    "remote": false,
+    "settings": [
+        {
+            "group": "Common settings",
+            "settings": [
+                {
+                    "fred-import": "_hero options"
+                }
+            ]
+        },
+        {
+            "group": "Button settings",
+            "settings": [
+                {
+                    "fred-import": "_button options"
+                }
+            ]
+        },
+        {
+            "group": "Background settings",
+            "settings": [
+                {
+                    "fred-import": "_background options"
+                }
+            ]
+        },
+        {
+            "group": "Row settings",
+            "settings": [
+                {
+                    "fred-import": "_row options"
+                }
+            ]
+        },
+        {
+            "group": "Column settings",
+            "settings": [
+                { 
+                    "fred-import": "_2 col section options"
+                }
+            ]
+        },
+        {
+            "group": "Padding settings",
+            "settings": [
+                {
+                    "fred-import": "_padding options"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "remote": true,
+    "settings": [
+    	{
+			"group": "Column 1 options",
+			"settings": [
+				{
+					"fred-import": "_2 col - col 1 options"
+				}
+			]
+		},
+		{
+			"group": "Column 2 options",
+			"settings": [
+				{
+					"fred-import": "_2 col - col 2 options"
+				}
+			]
+		},
+        {
+			"group": "Row options",
+			"settings": [
+				{
+					"fred-import": "_row options"
+				}
+			]
+		}
+	]
+}

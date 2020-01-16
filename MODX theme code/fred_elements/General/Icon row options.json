@@ -1,0 +1,53 @@
+{
+    "remote": false,
+    "settings": [
+		{
+			"group": "Column settings",
+			"settings": [
+				{
+					"fred-import": "_column options"
+				}
+			]
+		},
+		{
+			"group": "Row settings",
+			"settings": [
+				{
+					"fred-import": "_row options"
+				}
+			]
+		},
+        {
+			"group": "General settings",
+			"settings": [
+				{
+					"fred-import": "_section options"
+				}
+			]
+		},
+		{
+			"group": "Background settings",
+			"settings": [
+				{
+		            "fred-import": "_background options"
+		        }
+			]
+		},
+		{
+			"group": "Overlay settings",
+			"settings": [
+		        {
+		            "fred-import": "_overlay options"
+		        }
+			]
+		},
+		{
+			"group": "Padding settings",
+			"settings": [
+		        {
+		            "fred-import": "_padding options"
+		        }
+			]
+		}
+	]
+}

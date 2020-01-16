@@ -1,0 +1,40 @@
+{
+    "remote": true,
+    "settings": [
+    	{
+            "name": "vertical_align",
+            "label": "Alignment Y",
+            "type": "select",
+            "options": {
+                "align-self-start": "Start",
+                "align-self-center": "Center",
+                "align-self-end": "End"
+            },
+            "value": "align-self-start"
+        },
+    	{
+			"name": "accordions",
+			"label": "Accordions",
+			"type": "slider",
+			"value": 3,
+			"min": 1,
+			"max": 20
+		},
+		{
+			"group": "Column settings",
+			"settings": [
+			    { 
+			    	"fred-import": "_2 col section options"
+			    }
+			]
+		},
+		{
+			"group": "Row settings",
+			"settings": [
+				{
+					"fred-import": "_row options"
+				}
+			]
+		}
+	]
+}

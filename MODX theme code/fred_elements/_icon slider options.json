@@ -1,0 +1,70 @@
+[
+  {
+    "name": "icon_slider_icons",
+    "label": "Total number of icons",
+    "type": "slider",
+    "value": 6,
+    "min": 1,
+    "max": 20
+  },
+  {
+    "name": "icon_slider_icons_small",
+    "label": "Number of icons visible on small screens",
+    "type": "slider",
+    "value": 2,
+    "min": 1,
+    "max": 10
+  },
+  {
+    "name": "icon_slider_icons_medium",
+    "label": "Number of icons visible on medium screens",
+    "type": "slider",
+    "value": 3,
+    "min": 1,
+    "max": 10
+  },
+  {
+    "name": "icon_slider_icons_large",
+    "label": "Number of icons visible on large screens",
+    "type": "slider",
+    "value": 6,
+    "min": 1,
+    "max": 10
+  },
+  {
+    "name":"icon_logo_grey",
+    "label":"Make icons grey",
+    "type": "select",
+    "options": {
+        "": "No",
+        "icon_logo_grey": "Yes"
+    },
+    "value": ""
+  },
+  {
+    "name": "icon_slider_width",
+    "label": "Icon slider column width",
+    "type": "slider",
+    "value": 12,
+    "min": 1,
+    "max": 12
+  },
+  {
+    "name": "icon_slider_col_offset",
+    "label": "Icon slider column offset",
+    "type": "slider",
+    "value": 0,
+    "min": 0,
+    "max": 11
+  },
+  {
+    "name":"icon_slider_container",
+    "label":"Add container to icon row",
+    "type": "select",
+    "options": {
+        "": "No",
+        "container": "Yes"
+    },
+    "value": "container"
+  }
+]

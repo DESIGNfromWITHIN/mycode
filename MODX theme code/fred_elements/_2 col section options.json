@@ -1,0 +1,44 @@
+[
+  {
+    "name": "col_1_size",
+    "label": "Column 1 size",
+    "type": "slider",
+    "min": 1,
+    "max": 11,
+    "step": 1,
+    "value": 6
+  },
+  {
+    "name": "col_2_size",
+    "label": "Column 2 size",
+    "type": "slider",
+    "min": 1,
+    "max": 11,
+    "step": 1,
+    "value": 6
+  },
+  {
+    "name":"change_order",
+    "label":"Change order",
+    "type":"toggle",
+    "value":false
+  },
+  {
+    "name": "col_offset",
+    "label": "Column 1 offset",
+    "type": "slider",
+    "min": 0,
+    "max": 10,
+    "step": 1,
+    "value": 0
+  },
+  {
+    "name": "col_2_offset",
+    "label": "Column 2 offset",
+    "type": "slider",
+    "min": 0,
+    "max": 10,
+    "step": 1,
+    "value": 0
+  }
+]

@@ -1,0 +1,96 @@
+$theme-primary: #0073a6;
+$theme-primary-light: #2699cc;
+$theme-primary-dark: #134256;
+$theme-secondary: #91AA9D;
+$theme-secondary-light: #D1DBBD;
+$theme-light: #E5E5E5;
+$theme-dark: #[[++fred.anylanding.theme_dark]];
+$theme-warning: #d86100;
+$theme-border:#6a6a6a;
+$theme-headings: $theme-primary;
+
+// Colors
+.primary-bg {
+	background-color: $theme-primary;
+}
+.primary-light-bg {
+	background-color: $theme-primary-light;
+}
+.primary-dark-bg {
+	background-color: $theme-primary-dark;
+}
+.secondary-bg {
+	background-color: $theme-secondary;
+}
+.secondary-light-bg {
+	background-color: $theme-secondary-light;
+}
+.light-bg {
+	background-color: $theme-light;
+}
+.dark-bg {
+	background-color: $theme-dark;
+}
+.warning-bg {
+	background-color: $theme-warning;
+}
+.text-dark {
+	color: $theme-dark !important;
+}
+
+body {
+	font-size: [[++fred.anylanding.body_font_size]];
+	font-weight: [[++fred.anylanding.body_font_weight]];
+}
+h1 {
+	font-size: [[++fred.anylanding.h1_font_size]];
+	font-weight: [[++fred.anylanding.h1_font_weight]];
+}
+h2 {
+	font-size: [[++fred.anylanding.h2_font_size]];
+	font-weight: [[++fred.anylanding.h2_font_weight]];
+}
+h3 {
+	font-size: [[++fred.anylanding.h3_font_size]];
+	font-weight: [[++fred.anylanding.h3_font_weight]];
+}
+h4 {
+	font-size: [[++fred.anylanding.h4_font_size]];
+	font-weight: [[++fred.anylanding.h4_font_weight]];
+}
+h5 {
+	font-size: [[++fred.anylanding.h5_font_size]];
+	font-weight: [[++fred.anylanding.h5_font_weight]];
+}
+h6 {
+	font-size: [[++fred.anylanding.h6_font_size]];
+	font-weight: [[++fred.anylanding.h6_font_weight]];
+}
+.section-header.affix {
+	background-color:#[[++fred.anylanding.main_bg_color]];
+}
+
+[[++fred.anylanding.gradient_use:is=`true`:then=`
+.use_gradient {
+	background-color: #[[++fred.anylanding.gradient_color_1]];
+	background-image: linear-gradient([[++fred.anylanding.gradient_angle]]deg, #[[++fred.anylanding.gradient_color_1]] 0%, #[[++fred.anylanding.gradient_color_2]] 100%);
+}
+.section-header.affix {
+	background-color: #[[++fred.anylanding.gradient_color_1]];
+	background-image: linear-gradient([[++fred.anylanding.gradient_angle]]deg, #[[++fred.anylanding.gradient_color_1]] 0%, #[[++fred.anylanding.gradient_color_2]] 100%);
+}
+`]]
+.section-hero {
+	padding-top:[[++fred.anylanding.logo_height:add=`34`]]px;
+	background-color:#[[++fred.anylanding.header_bg_color]];
+}
+[[++fred.anylanding.google_font_use:is=`true`:then=`
+body {
+	font-family: [[++fred.anylanding.google_font]], [[++fred.anylanding.font-family]];
+}
+`]]
+[[++fred.anylanding.google_font_headers_use:is=`true`:then=`
+h1,h2,h3,h4,h5,h6 {
+	font-family: [[++fred.anylanding.google_font_headers]], [[++fred.anylanding.font-family_headers]];
+}
+`]]

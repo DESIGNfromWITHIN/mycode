@@ -1,0 +1,56 @@
+{
+    "remote": false,
+    "settings": [
+    	{
+            "name": "vertical_align",
+            "label": "Alignment Y",
+            "type": "select",
+            "options": {
+                "align-self-start": "Start",
+                "align-self-center": "Center",
+                "align-self-end": "End"
+            },
+            "value": "align-self-center"
+        },
+        {
+			"group": "General settings",
+			"settings": [
+				{
+					"fred-import": "_section options"
+				}
+			]
+		},
+		{
+			"group": "Column settings",
+			"settings": [
+			    { 
+			    	"fred-import": "_2 col section options"
+			    }
+			]
+		},
+		{
+			"group": "Row settings",
+			"settings": [
+				{
+					"fred-import": "_row options"
+				}
+			]
+		},
+		{
+			"group": "Background settings",
+			"settings": [
+				{
+		            "fred-import": "_background options"
+		        }
+			]
+		},
+		{
+			"group": "Padding settings",
+			"settings": [
+		        {
+		            "fred-import": "_padding options"
+		        }
+			]
+		}
+	]
+}

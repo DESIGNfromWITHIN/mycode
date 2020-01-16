@@ -1,0 +1,56 @@
+[
+  {
+    "name": "ctacolor",
+    "label": "Button text color",
+    "type": "select",
+    "options": {
+        "text-primary": "Primary color",
+        "text-secondary": "Secondary color",
+        "text-dark": "Dark color",
+        "text-light": "Light color",
+        "text-white": "White color",
+        "text-warning": "Warning color"
+    },
+    "value": "text-white"
+  },
+  {
+    "name": "ctasize",
+    "label": "CTA Size",
+    "type": "select",
+    "options": {
+        "": "Default",
+        "btn-lg": "Large",
+        "btn-sm": "Small"
+    },
+    "value": ""
+  },
+  {
+    "name": "ctalink",
+    "label": "CTA link",
+    "type": "text",
+    "value": ""
+  },
+  {
+    "name": "ctatext",
+    "label": "CTA button text",
+    "type": "text",
+    "value": "More info"
+  },
+  {
+    "name": "ctaclass",
+    "label": "CTA Class",
+    "type": "select",
+    "options": {
+        "btn": "Button",
+        "btn btn-primary": "Button primary",
+        "btn btn-secondary": "Button secondary",
+        "btn btn-outline-primary": "Button outline primary",
+        "btn btn-outline-secondary": "Button outline secondary",
+        "btn btn-outline-warning": "Button outline warning",
+        "btn btn-dark": "Button dark",
+        "btn btn-light": "Button light",
+        "btn btn-warning": "Button warning"
+    },
+    "value": "btn btn-primary"
+  }
+]

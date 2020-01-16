@@ -1,0 +1,48 @@
+{
+    "remote": true,
+    "settings": [
+    	{
+            "name": "vertical_align",
+            "label": "Alignment Y",
+            "type": "select",
+            "options": {
+                "align-self-start": "Start",
+                "align-self-center": "Center",
+                "align-self-end": "End"
+            },
+            "value": "align-self-start"
+        },
+    	{
+			"group": "Contact us settings",
+			"settings": [
+				{
+					"fred-import": "_contact us options"
+				}
+			]
+		},
+        {
+			"group": "General settings",
+			"settings": [
+				{
+					"fred-import": "_section options"
+				}
+			]
+		},
+		{
+			"group": "Column settings",
+			"settings": [
+			    { 
+			    	"fred-import": "_2 col section options"
+			    }
+			]
+		},
+		{
+			"group": "Row settings",
+			"settings": [
+				{
+					"fred-import": "_row options"
+				}
+			]
+		}
+	]
+}

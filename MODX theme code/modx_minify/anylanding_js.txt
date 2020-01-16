@@ -1,0 +1,5 @@
+assets/themes/anylanding/assets/js/jquery-2.0.0.min.js
+assets/themes/anylanding/assets/js/bootstrap.bundle.min.js
+assets/themes/anylanding/assets/plugins/fancybox/fancybox.min.js
+assets/themes/anylanding/assets/plugins/owlcarousel/owl.carousel.min.js
+assets/themes/anylanding/assets/js/script.js

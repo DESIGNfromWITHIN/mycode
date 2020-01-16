@@ -1,0 +1,8 @@
+assets/themes/anylanding/assets/scss/bootstrap.scss
+assets/themes/anylanding/assets/fonts/fontawesome/css/fontawesome-all.css
+assets/themes/anylanding/assets/plugins/fancybox/fancybox.min.css
+assets/themes/anylanding/assets/plugins/owlcarousel/assets/owl.carousel.min.css
+assets/themes/anylanding/assets/plugins/owlcarousel/assets/owl.theme.default.css
+assets/themes/anylanding/assets/scss/ui.scss
+assets/themes/anylanding/assets/scss/responsive.scss
+assets/themes/anylanding/assets/scss/style.scss

@@ -1,0 +1,52 @@
+{
+	"remote": true,
+	"settings": [
+		{
+			"name": "text_align",
+			"label": "Align the text",
+			"type": "select",
+			"options": {
+				"": "Don't set",
+				"text-left": "Text align left",
+				"text-center": "Text align center",
+				"text-right": "Text align right"
+			},
+			"value": ""
+		},
+		{
+			"name": "textcolor",
+			"label": "Main text color",
+			"type": "select",
+			"options": {
+				"text-primary": "Primary color",
+				"text-secondary": "Secondary color",
+				"text-dark": "Dark color",
+				"text-light": "Light color",
+				"text-white": "White color",
+				"text-warning": "Warning color"
+			},
+			"value": "text-dark"
+		},
+		{
+			"name": "headercolor",
+			"label": "Header text color",
+			"type": "select",
+			"options": {
+				"header-primary": "Primary color",
+				"header-secondary": "Secondary color",
+				"header-dark": "Dark color",
+				"header-white": "White color",
+				"header-warning": "Warning color"
+			},
+			"value": "header-primary"
+		},
+        {
+			"group": "Padding and margins options",
+			"settings": [
+				{
+					"fred-import": "_element - padding and margins"
+				}
+			]
+		}
+	]
+}

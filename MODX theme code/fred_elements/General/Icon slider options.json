@@ -1,0 +1,45 @@
+{
+    "remote": false,
+    "settings": [
+    	{
+			"group": "Icon slider settings",
+			"settings": [
+				{
+					"fred-import": "_icon slider options"
+				}
+			]
+		},
+		{
+			"group": "Row settings",
+			"settings": [
+				{
+					"fred-import": "_row options"
+				}
+			]
+		},
+        {
+			"group": "General settings",
+			"settings": [
+				{
+					"fred-import": "_section options"
+				}
+			]
+		},
+		{
+			"group": "Background settings",
+			"settings": [
+				{
+		            "fred-import": "_background options"
+		        }
+			]
+		},
+		{
+			"group": "Padding settings",
+			"settings": [
+		        {
+		            "fred-import": "_padding options"
+		        }
+			]
+		}
+	]
+}

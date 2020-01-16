@@ -1,0 +1,45 @@
+{
+    "remote": true,
+    "settings": [
+    	{
+			"group": "Column 1 options",
+			"settings": [
+				{
+					"fred-import": "_4 col - col 1 options"
+				}
+			]
+		},
+		{
+			"group": "Column 2 options",
+			"settings": [
+				{
+					"fred-import": "_4 col - col 2 options"
+				}
+			]
+		},
+		{
+			"group": "Column 3 options",
+			"settings": [
+				{
+					"fred-import": "_4 col - col 3 options"
+				}
+			]
+		},
+		{
+			"group": "Column 4 options",
+			"settings": [
+				{
+					"fred-import": "_4 col - col 4 options"
+				}
+			]
+		},
+        {
+			"group": "Row options",
+			"settings": [
+				{
+					"fred-import": "_row options"
+				}
+			]
+		}
+	]
+}

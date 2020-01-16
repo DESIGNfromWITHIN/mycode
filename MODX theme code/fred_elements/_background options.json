@@ -1,0 +1,26 @@
+[
+  {
+    "name":"image",
+    "label":"Background Image",
+    "type":"image",
+    "mediaSource":"Uploads"
+  },
+  {
+    "name": "bg",
+    "label": "Background Color",
+    "type": "colorpicker",
+    "value": "#white",
+    "showAlpha": true,
+    "options": [
+      "#0073a6",
+      "#2699cc",
+      "#134256",
+      "#91AA9D",
+      "#d86100",
+      "#E5E5E5",
+      "#232323",
+      "black",
+      "white"
+    ]
+  }
+]

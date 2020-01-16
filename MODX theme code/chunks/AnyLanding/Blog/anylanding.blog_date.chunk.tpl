@@ -1,0 +1,1 @@
+<p><small>Published on: <time datetime="[[*publishedon:date=`%Y-%m-%d`]]">[[*publishedon:date=`%d %b %Y`]]</time></small></p>

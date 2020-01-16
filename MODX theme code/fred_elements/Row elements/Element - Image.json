@@ -1,0 +1,21 @@
+{
+	"remote": true,
+	"settings": [
+        {
+			"group": "Image options",
+			"settings": [
+				{
+					"fred-import": "_image - options"
+				}
+			]
+		},
+        {
+			"group": "Padding and margins options",
+			"settings": [
+				{
+					"fred-import": "_element - padding and margins"
+				}
+			]
+		}
+	]
+}

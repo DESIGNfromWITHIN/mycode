@@ -1,0 +1,16 @@
+[
+  {
+    "name": "padding",
+    "label": "Row padding",
+    "type": "select",
+    "value": "p-3",
+    "options": {
+      "p-0": "None",
+      "p-1": "Padding 1",
+      "p-2": "Padding 2",
+      "p-3": "Padding 3",
+      "p-4": "Padding 4",
+      "p-5": "Padding 5"
+    }
+  }
+]
