@@ -1,22 +1,7 @@
-# Fluidwell site SASS code
+# mycode
 
-The SASS code made for one of my biggest projects: https://fluidwell.com a MODX CMS based website.
+Some examples of code that i am proud of. Feel free to copy / use.
 
-Tools used:
+# By Menno Pietersen
 
-- HTML5
-- CSS3
-- SASS
-- jQuery
-- Gulp
-- Foundation 6
-
-Features of the site:
-
-- responsive
-- custom menu using AJAX
-- antispam forms
-- optimized CMS for performance
-- custom user rights in backend
-- dynamic content show based on IP detection
-- MODX page generation after CSV import
+Company / portfolio website: https://anyscreensize.com
